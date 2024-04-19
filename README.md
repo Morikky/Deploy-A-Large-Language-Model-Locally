@@ -11,6 +11,6 @@ Example of generating a response to a prompt:
 ![img1](https://github.com/Morikky/Deploy-A-Large-Language-Model-Locally/blob/main/plots/test.png)
 
 
-One can see the reduced precision of the response due to the quantization. 
+One can see the responce is cut articulated  reduced precision of the response due to the quantization. 
 
 
