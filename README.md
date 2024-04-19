@@ -11,6 +11,6 @@ Example of generating a response to a prompt:
 ![img1](https://github.com/Morikky/Deploy-A-Large-Language-Model-Locally/blob/main/plots/test.png)
 
 
-One can see the response is interrupted. This is the reduced precision of the model due to its quantization. 
+One can see the response is interrupted. This is related to the reduced precision of the model due to its quantization. 
 
 
