@@ -7,4 +7,6 @@ The chosen quantized model here is 7b.Q4_K_M.gguf available for download from: h
 The model is run using Python and the Ctransformers library from Longchain. 
 Examples of generating response to a prompt:
 
+![img1](https://github.com/Morikky/Deploy-A-Large-Language-Model-Locally/blob/main/plots/test.png)
+
 
